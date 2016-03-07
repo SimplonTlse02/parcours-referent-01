@@ -325,9 +325,10 @@ https://freedcamp.com/tour
 
 ----------------------------------------
 # Community Management
-* Twitter, Facebook, LinkedIn, Google Plus, Instagram, Snapchat
+* Twitter, Facebook, LinkedIn, Google Plus, Instagram, Snapchat, Pinterest
 * Tweet Deck
 * Buffer
+* Hootsuite
 
 ----------------------------------------
 # Médiation numérique
