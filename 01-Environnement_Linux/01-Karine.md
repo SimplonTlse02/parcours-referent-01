@@ -14,11 +14,8 @@ et réinstallation Package Control / EMMET pr Sublim text / de Apache le serveur
 mais pbs d'affichage en test non résolu.
 
 - Reactionner réseau WIFI caché -
-1. edit connections
-2. choisir celui utilisé d'habitude : ex SIMPLON MIP
-3. EDIT / MODE : et changer à Infrastructure ! SAVE
-4. le relancer dans le choix des reseaux 
-5. https://cloud.githubusercontent.com/assets/16001498/13570884/6c4e5814-e471-11e5-8062-c7e1e01e33c7.png
-> screen shot correspondant 
-
-
+edit connections
+choisir celui utilisé d'habitude : ex SIMPLON MIP
+EDIT / MODE : et changer à Infrastructure ! SAVE
+le relancer dans le choix des reseaux 
+https://cloud.githubusercontent.com/assets/16001498/13570884/6c4e5814-e471-11e5-8062-c7e1e01e33c7.png >screen shot correspondant
