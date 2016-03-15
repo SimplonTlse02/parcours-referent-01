@@ -96,8 +96,9 @@ WordPress est personnalisable à l'aide de plugins. Ces modules permettent d'ajo
 Les plugins sont développés par la communauté.
 Il existe plus de 25 000 plugins
 
-- WordPress -
+#WordPress
 
 * Installation, config. du serveur MAMP pour MAC
 * Installation, config de WORDPRESS > fichier WordPress qd téléchargé, à placer dans le dossier à la racine! de MAMP, une fois dedans on le lance de la page MAMP et qui a un onglet " ma page web " et INSCRIPTION 
-* Page formulaire avec un plugIn "Contact Form 7" (si serveur local, copier le fichier telechargé et coller dans WPplugIn, il apparait alors dans la page admnin. WP) pareil pr un nouveau thème, etc. 
+* Essai créa page WP thématique concours photos. Page avec un formulaire, plugIn "Contact Form 7", une galerie photo plugin, (si serveur local, copier le fichier telechargé et coller dans WPplugIn, il apparait alors dans la page admnin. WP) pareil pr un nouveau thème, etc.
+* Tuto vidéo "les clefs pour réussir son référencement"
