@@ -95,3 +95,9 @@ NextGenGallery : création de galeries photos
 WordPress est personnalisable à l'aide de plugins. Ces modules permettent d'ajouter de nombreuses fonctionnalités.
 Les plugins sont développés par la communauté.
 Il existe plus de 25 000 plugins
+
+- WordPress -
+
+* Installation, config. du serveur MAMP pour MAC
+* Installation, config de WORDPRESS > fichier WordPress qd téléchargé, à placer dans le dossier à la racine! de MAMP, une fois dedans on le lance de la page MAMP et qui a un onglet " ma page web " et INSCRIPTION 
+* Page formulaire avec un plugIn "Contact Form 7" (si serveur local, copier le fichier telechargé et coller dans WPplugIn, il apparait alors dans la page admnin. WP) pareil pr un nouveau thème, etc. 
