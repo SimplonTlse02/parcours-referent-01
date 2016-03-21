@@ -267,7 +267,9 @@ https://freedcamp.com/tour
 
 2. Le e-commerce en pratique
 	1. Installation et premiers pas
-	2. 
+		* https://www.codeur.com/cms/aide/creer-un-e-commerce-wordpress/
+		*
+	2.
 
 
 
@@ -290,13 +292,6 @@ https://freedcamp.com/tour
 * http://abcreseau.blogspot.fr/
 * https://openclassrooms.com/courses/apprenez-le-fonctionnement-des-reseaux-tcp-ip
 * http://laissus.developpez.com/tutoriels/cours-introduction-tcp-ip/
-
-
-
-----------------------------------------
-# Gestion de projet
-* Connaître les différentes méthodes et outils de la gestion de projet
-
 
 
 
