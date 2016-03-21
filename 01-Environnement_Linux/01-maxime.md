@@ -4,11 +4,11 @@
 # Lundi 22 février
 Lancement des hostilités
 
-Ne pas oublier : 
+Ne pas oublier :
 * Meetup
 * Community Management
 * Vidéo
-* 
+*
 
 ## Discussion JFK
 Vous êtes nos contacts.
@@ -17,16 +17,16 @@ On liste. Ordre chronologique, dépendances entre évènements.
 Positionnement dans le temps.
 Calcul des délais.
 
-Exemple : 
+Exemple :
 Maquette => Page statique => Page dynamique v1 => Page dynamique v2
 
-Estimation du temps : 
+Estimation du temps :
 Si tout seul : % de risque
 - techno connue ?
 - techno éprouvée (communauté) ?
 Et donc ajouter un pourcentage de délai.
 
-Evaluation : 
+Evaluation :
 Faire la moyenne des estimations individuelles.
 
 Planning Poker
@@ -84,11 +84,11 @@ It seems I was missing the libapache2-mod-php5 package...
 
 http://askubuntu.com/questions/426304/laravel-serves-a-phtml-file
 
-## Laravel 
+## Laravel
 logs/laravel.log" could not be opened: failed to open stream: Permission denied'
 
-php artisan cache:clear 
-chmod -R 777 app/storage 
+php artisan cache:clear
+chmod -R 777 app/storage
 composer dump-autoload
 
 http://stackoverflow.com/questions/23540083/failed-to-open-stream-permission-denied-error-laravel
@@ -109,7 +109,7 @@ Woops ... x2
 
 production.ERROR: exception 'RuntimeException' with message 'No supported encrypter found. The cipher and / or key length are invalid.'
 
-Fist, check packages are installed : 
+Fist, check packages are installed :
 sudo apt-get install -y mcrypt php5-mcrypt
 
 Then generate a proper KEY
@@ -134,4 +134,47 @@ Googled around a bit and this solved my issue: Install babel-preset-es2015 via N
 
 https://github.com/babel/babelify/issues/134
 
-scp 
+scp
+
+## Connaître l'utilisateur Apache
+Pour mettre les bons droits d'accès aux projets (comme Laravel)
+| ps aux | grep apache
+
+## Lancer un projet Laravel
+| composer install
+Générer une clé et la mettre dans .env
+
+## Configuer Sim
+mysql -uroot -p sim < sim-0221.dump
+mysql -uroot -p
+create database sim;
+
+cp .env.example .env
+
+php artisan key:generate
+
+php artisan tinker
+$v = App\Models\User::find(30);
+$v->password = bcrypt('myawesome');
+$v->save();
+
+
+## Add PhpMyAdmin
+http://stackoverflow.com/questions/10111455/i-cant-access-http-localhost-phpmyadmin
+Include /etc/phpmyadmin/apache.conf
+sudo service apache2 restart
+
+
+## Dump mysql
+ mysqldump -u root -p dbname > dump.sql
+
+## Restore
+mysql -u root -p dbname < dump.sql
+
+# Projet SIM
+gulp watch
+
+npm install laravel-elixir
+npm install babel-preset-es2015
+npm install react
+npm install jquery

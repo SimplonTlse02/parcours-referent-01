@@ -15,26 +15,6 @@
 12. [Outils d'automatisation](#outils-d'automatisation)
 13. [Médiation numérique](#médiation-numérique)
 
-| Topics        | Semaine           | 
-| ------------- |:-------------:| 
-| Linux et client email      | 08 |  
-| Outils de présentation      | 08 | 
-| Wordpress      | 09 |  
-| Design     | 09 |  
-| Réseau et sécurité web     | 10 |  
-| E-commerce      | 10 |  
-| Otuils de veille | 11 |
-| Gestion de projets | 11 |
-| Newsletters | 12 |
-| CRM & ERP | 12 |
-| Référencement SEO | 13 |
-| Analytics | 13 |
-| Automatisation | 14 |
-| Médiation numérique | 14 |
-| Community Management | 15 |
-| Des suggestions ? | 15 |
-
-
 
 
 ----------------------------------------
@@ -236,7 +216,7 @@ https://freedcamp.com/tour
 
 1. Le Wireframe
 	1. Les outils de wireframe
-	2. 
+	2.
 2. La manipulation d'images
 	1. Les différents formats d'image numérique
 		1. JPG
@@ -269,19 +249,32 @@ https://freedcamp.com/tour
 # E-commerce
 
 ## Objectifs
+* Connaître les différences entre les 3 grands frameworks : WooCommerce, Magento et Prestashop
 * Savoir mettre en place un site marchand basique
   * WooCommerce
   * Magento
   * Prestashop
-  * Paiement en ligne
- *
+
+
+## Notions
+1. Tour d'horizon des solutions e-commerce
+	* http://www.journaldunet.com/solutions/saas-logiciel/wordpress-woocommerce-vs-prestashop/
+	* http://blog.litextension.com/magento-vs-prestashop-vs-woocommerce-comparison/
+	* https://www.simpliowebstudio.com/comparison-review-prestashop-magento-woocommerce/
+	* https://magento.com/
+	* https://www.prestashop.com/en/
+	* https://www.woothemes.com/woocommerce/
+
+2. Le e-commerce en pratique
+	1. Installation et premiers pas
+	2. 
 
 
 
 
 ----------------------------------------
 # Outils de veille
-
+* Scoop.it
 
 
 ----------------------------------------
@@ -383,12 +376,11 @@ https://freedcamp.com/tour
 * Organisé en session de demi-semaine.
 * Restitution des projets précédents en début de session.
 * Puis lancement des projets en autonomie.
-* Tenue d'un journal de bord individuel: 
+* Tenue d'un journal de bord individuel:
 	* reformulation des projets
 	* liste de ressources utiles
 	* tutoriels
-	* bugTracking 
+	* bugTracking
 		* formulation du problème
 		* résolution
 *
-
