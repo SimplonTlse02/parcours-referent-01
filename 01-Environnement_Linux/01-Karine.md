@@ -1,5 +1,3 @@
-"JOURNAL DE BORD" 
-
 - Environnement Linux - 
 Reboot de ma machine :
 Pb réinstallation WIFI, il est nécéssaire de faire un apt-get update + apt-get upgrade
@@ -102,3 +100,125 @@ Il existe plus de 25 000 plugins
 * Installation, config de WORDPRESS > fichier WordPress qd téléchargé, à placer dans le dossier à la racine! de MAMP, une fois dedans on le lance de la page MAMP et qui a un onglet " ma page web " et INSCRIPTION 
 * Essai créa page WP thématique concours photos. Page avec un formulaire, plugIn "Contact Form 7", une galerie photo plugin, (si serveur local, copier le fichier telechargé et coller dans WPplugIn, il apparait alors dans la page admnin. WP) pareil pr un nouveau thème, etc.
 * Tuto vidéo "les clefs pour réussir son référencement"
+
+Referencement 
+==
+Principales notions pr améliorer son référencement et avec quels outils le mesurer?
+
+Notion de WebMarketing
+* Le visiteur a 3 comportements:
+il cherche, besoin de référencement, il participe, utilité des réseaux sociaux, il surfe, d’où le display, et que l’on éveille son intérêt.
+
+Comment se réalise le positionnement:
+* Google tient 90% du marché
+Un moteur de recherche réalise un « crawling », puis analyse la page, la lis ou ne peut pas la lire, l’index, et traite les requêtes.
+À retenir que les méthodes, les algorithmes évoluent tout le temps. 
+
+Donc, dans les 10 er résultats GOOGLE, sont tenus en compte la PERTINENCE et la NOTORIETE
+
+* La notoriete 
+Page dont les gens parlent, ou l’importance des liens entrants ou « backlinks »
+Les « backlinks » sont placés dans un article, dans le texte, pas dans le footer par exemple!
+
+* Un « mot-clé » est un ensemble de mot, pas juste un mot.
+À savoir qu’il est tapé en moyenne 4 mots en recherche sur G.
+Ils peuvent être acheter sur AdWords
+
+* Le « Net-linking » ou obtenir des liens : 
+en commentant sur un site généraliste, annuaire, blog, réseaux, sociaux
+Ainsi on obtient une note de G : le « PAGE RANK » cette note est donné page par page !  et pas par site. 
+
+* La pertinence
+Ou la bonne réponse posé par l'internaute.
+D’où l’obligation de définir 1 mot-clé principal, associé à une page.
+
+SEO - Search Engine Optimization
+Importance de:
+mot-clé, contenu, accueil des visiteurs
+optimisation technique du site
+Contenant, G est une librairie
+ergonomie
+un contenu unique
+
+Donc pertinence et notoriété : 
+meilleur réponse, contenant, mot-clé, contenu
+
+CONCLUSION
+==
+Mot-clé très important, le principal est à définir, et les secondaires.
+Les placer selon de façon à optimiser, du titre, de la métadescription, hiérarchiser les titres dans les balisesLes lister
+Analyse recherche des internautes
+Concurrence
+Pertinence > Bonne réponse, mot-clé et comportement visiteur
+Notoriété > Qui parle de moi
+
+
+Outils
+==
+
+Adwords   
+Outil de planification de mot-clé   
+Google Analytics    
+Google Webmaster Tools    
+Google Page Speed    
+Google Trends    
+semrush.com : consultable pr 2, 3 recherches / Jour   
+
+Sources
+==
+
+Les 3 plus plébiscités. (Source Journal du Net, Mars 2016):
+
+https://ahrefs.com > analyse des backlink reconnu   
+https://fr.majestic.com >  outil préféré des SEO pour les indépendants, dont les developpeurs   
+http://www.seobserver.com   
+
+SEO pr Linux : http://www.advancedwebranking.com/download.html   
+http://www.positeo.com   
+http://www.allorank.com  
+http://www.ranks.fr/fr/outil-backlinks  
+http://socialcrawlytics.com  > état des lieux de l'activité sociale des pages d'un site web en prenant en compte les différents types de partages : Facebook, Twitter, Pinterest   
+http://www.netstorming.fr  > boite à outil du SEO accessible sur une seule page   
+http://peacockmedia.co.uk/integrity/   
+
+Sécuriser son WordPress, notions.    
+==
+
+En 1er lieu, faire des MAJ régulières.   
+Protégez sa page de connexion cad wp-login.php  
+	> Avec les plugin « Login Lockdown », ou « WordFence »   
+Ne pas utiliser « admin » comme nom d’utilisateur    
+Choisir des mots de passe complexes   
+	> générateur de mot de passe:  
+	strongpasswordgenerator.com   
+Protégez ses fichiers .htaccess    
+	> depuis votre client FTP (Filezilla par exemple), ou avec le plugin WordPress SEO By Yoast, ou encore en suivant le tuto de -wpmarmite- (source)  
+Sécurisez wp-includes   
+	> ds le meme fichier .htaccess, ajouter un extrait du Codex WP (source -incremys-)  
+Masquez votre version de WordPress   
+Empéchez l’accès à son répertoire de fichiers  
+Utilisez les bonnes permissions pour vos dossiers et fichiers pr mieux sécuriser WP   
+Limitez le hotlinking de vos images  
+Scannez son site, ou solution complète de nettoyage   
+	> CodeGuard   
+	> Sucuri  
+	> Theme Authenticity Checker   
+Utilisez une connexion SFTP plutôt que FTP  
+Empechez ds utilisateurs fictifs de spammer votre site de membres   
+Sauvegardez régulièrement son site:  
+	> UpdraftPlus  
+	> VaultPress  
+	> BackUpBuddy  
+	> WordPressBackup to Dropbox   
+
+Conclusion
+==
+En somme, on peut sécuriser son site WP de l’installation, la MAJ, utilisateurs, plugins, thèmes, verrouiller l’éditeur de code, éviter les pièges du fichier wp-config, erreur de login.  
+
+	> Tout les détails techniques pr effectuer ses étapes:  
+	http://korben.info/securiser-wordpress-installation.html
+
+Sources :  
+http://www.incremys.com/securiser-wordpress-comment-renforcer-securite-site-wordpress/     
+http://wpmarmite.com/htaccess-wordpress/
+
