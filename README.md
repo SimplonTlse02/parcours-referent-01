@@ -144,7 +144,7 @@ http://www.gestiondeprojet.net
 http://www.blog-gestion-de-projet.com/lindispensable-planification-de-votre-projet-les-concepts/
 http://www.blog-gestion-de-projet.com/quest-ce-que-le-planning-poker/
 
-## Aller plus loins
+## Aller plus loin
 https://fr.wikipedia.org/wiki/Unified_process
 https://fr.wikipedia.org/wiki/Diagramme_des_cas_d'utilisation
 https://fr.wikipedia.org/wiki/UML_%28informatique%29#Les_diagrammes
