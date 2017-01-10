@@ -14,6 +14,7 @@
 * Savoir mettre en place un site sous wordpress
 * Savoir mettre en place un site avec Woo-Commerce
 * Savoir automatiser des tâches
+* Développer son esprit de synthèse et de médiation numérique
 
 
 3. [Word Press](#wordpress)
@@ -25,6 +26,16 @@
 13. [Médiation numérique](#médiation-numérique)
 
 
+Déroulé
+Standup meeting à 09h00 pour lancer la journée.
+Standup meeting à 16h00 pour débriefer.
+
+Si le temps, réaliser des fiches mémos, articles de blog et des tutos.
+
+Jour 1 : Overview via une présentation
+Jour 2-4 : Mise en pratique
+Jour 5 : Jour tampon ou Ecriture d'un tutoriel sur le sujet
+
 
 ----------------------------------------
 # Wordpress
@@ -35,12 +46,6 @@
 * Etre capable de réaliser un site vitrine contenant formulaire de contact, articles
 * Etre capable d'installer des plugins
 * Savoir mettre en production son Wordpress
-
-
-## Projet
-* Faire un site vitrine XXX
-* Déployer son site sur un serveur distant avec FileZilla
-* Faire une petite présentation qui introduit les différents CMS et leurs particularités
 
 
 ## Notions
@@ -104,24 +109,15 @@
 
 
 ----------------------------------------
-# Initiation au design et aux outils
+# Parenthèse numérique
+
+
 
 ## Objectifs
-* Connaître les différents formats d'images
-* Savoir réaliser un wireframe basique
+* Mettre en place un gestionnaire de mot de passe
 * Savoir manipuler une image : recadrer, détourer, redimensionner, changement de format, de qualité
 
-
-## Projet
-* Redimmensionner une image
-* Enlever le fond blanc d'une photo
-* Modifier une image pour avoir un contour en "cercle"
-* Altérer la qualité d'une image sans modifier sa taille
-* Convertir une image vers jpg et png
-
-
 ## Notions
-
 1. Le Wireframe
 	1. Les outils de wireframe
 	2.
@@ -148,9 +144,45 @@
 		* http://fr.tuto.com/gimp/tuto-gimp-gratuit.htm
 		* http://docs.gimp.org/fr/
 
+## Feuille de route
+### Jour 1
+* Réaliser une présentation d'introduction à la gestion de mot de passe
+	* Comparant les différentes solutions de gestion de mots de passe
+	* Qu'est-ce qu'un bon mot de passe ?
+	* Les politiques de gestion de mot de passe en entreprise
 
+* Installer KeePassX
+	* Créer une base de mots de passe
+		* Créer une base uniquement avec mot de passe
+		* Créer une base uniquement avec un *key file*
+		* Créer une base avec *password* et *key file*
+	* Pour chacune des bases :
+		* Créer des groupes (Réseaux Sociaux, Tech ...) et y insérer des faux mots de passe
+		* Générer automatiquement les mots de passe
 
+## Idées
+* Génération automatique vs mot de passe choisi
+* Prendre en main PassBolt
 
+### Jour 2
+* Réaliser une présentation sur les différents formats d'images
+	* Les comparer
+	* Les avantages et les inconvénients
+	* Les formats à privilégier pour le web
+* Prendre en main Gimp
+	* L'interface
+	* Le système de calques
+
+### Jour 3
+* Prendre en main Gimp (suite)
+	* Les opérations
+		* redimensionner
+		* recadrer
+		* détourer
+		* composer avec des calques
+		* convertion entre formats
+		* changement de qualité
+	* Réaliser le logo de Simplon *from scratch* 
 
 
 ----------------------------------------
