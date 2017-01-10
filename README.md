@@ -1,158 +1,30 @@
--- Programme Référent Numérique --
+# Programme Référent Numérique
 
 # Table des matières
-1. [Environnement Linux](#environnement-linux)
-2. [Outils de présentation](#outils-de-présentation)
+1. [WordPress]
+2. E-Commerce
+3. newsletters
+4. Outils d'automatisation
+5. CRM  & ERP
+6. Analytics
+
+# Objectifs
+* Être en mesure de mettre en place les essentiels numérique pour une Programme
+* Connaître les grandes solutions CMS
+* Savoir mettre en place un site sous wordpress
+* Savoir mettre en place un site avec Woo-Commerce
+* Savoir automatiser des tâches
+
+
 3. [Word Press](#wordpress)
-4. [Initiation au desgin et aux outils](#initiation-au-design-et-aux-outils)
 5. [E-commerce](#e-commerce)
-6. [Outils de veille](#outils-de-veille)
-7. [Gestion de projet](#gestion-de-projet)
 8. [Newsletters](#newsletters)
 9. [CRM & ERP](#CRM-ERP)
-10. [Référencement - SEO](#référencement-SEO)
 11. [Analytics](#analytics)
 12. [Outils d'automatisation](#outils-d'automatisation)
 13. [Médiation numérique](#médiation-numérique)
 
 
-
-----------------------------------------
-# Environnement Linux
-## Objectifs
-* Savoir installer une version grand public de Linux (Ubuntu)
-* Pouvoir installer et mettre à jour des logiciels de bureautique : Firefox, Thunderbird, LibreOffice, Skype
-* Savoir expliquer le fonctionnement d'un email
-* Connaître les fondamentaux de la ligne de commande
-
-## Projet
-* Installer Ubuntu 14.04 from scratch
-* Installer tous les logiciels incontournables
-* Configurer son email sous Thunderbird
-	* Gérer ses contacts et un carnet d'adresses
-	* Gérer plusieurs comptes email
-	* Configurer un SMTP externe (MailJet)
-
-
-## Notions
-1. Les systèmes d'exploitation
-	1. Tour d'horizon de Windows à Linux, en passant par Mac
-	2. Installation d'une distribution Linux (Ubuntu)
-
-2. Les outils de bureautique
-	1. Les logiciels incontournables
-		* Firefox
-		* Thunderbird
-		* Libre Office
-		* Skype
-		* Gimp
-		* VLC
-		* Audacity
-	2. Configuration avancée
-		* Organiser sa navigation avec Firefox
-		* Configuration SMTP & IMAP avec Thunderbird
-
-3. La ligne de commande CLI
-	1. Les bases
-	2. Ssh
-
-
-## Ressources
-
-### Thunderbird
-* https://www.mozilla.org/fr/thunderbird/
-* https://openclassrooms.com/courses/mozilla-thunderbird
-* http://www.commentcamarche.net/contents/536-pop3-smtp-imap-protocoles-de-messagerie
-* https://openclassrooms.com/courses/comprendre-la-messagerie-electronique
-* https://fr.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
-* https://fr.wikipedia.org/wiki/Internet_Message_Access_Protocol
-* http://korben.info/comment-chiffrer-ses-emails.html
-
-### Linux
-* http://dev.aurelienpierre.com/de-lavantage-de-linux-sur-windows-et-mac-os/
-* https://openclassrooms.com/courses/reprenez-le-controle-a-l-aide-de-linux
-* http://www.tomsguide.fr/article/guide-os-tomsguide,2-1029.html
-
-
-
-
-
-
-----------------------------------------
-# Outils de présentation
-
-## Objectifs
-* Connaître les différents outils de présentation
-* Savoir les codes pour réussir une présentation
-* Réaliser des infographies rapidement
-* Connaître les sites de ressources
-
-## Projet
-* Pour chaque outil, réaliser une présentation au sujet de Wordpress (environ 10 minutes)
-* Inclure des photos libres de droit
-* Inclure une ou plusieurs infographies
-
-
-## Notions
-1. L'art de la présentation
-	1. Les différentes étapes d'une présentation
-		* http://www.journaldunet.com/management/0512/0512113presentation-orale.shtml
-		* http://www.conseilsmarketing.com/communication/comment-reussir-ses-presentations-orales
-		* http://www.conseilsmarketing.com/techniques-de-ventes/comment-reussir-ses-presentations-orales-2
-		* http://tuto-office.fr/tutos/powerpoint/reussir-presentation-powerpoint/
-		* http://www.leader-blogueur.com/exemples-presentation-personnelle/
-	2. Les outils de présentation
-		* Google Slide
-		* Libre Office Impress
-		* Power Point (si Windows)
-		* Prezi
-		* Bunkr
-2. Les ressources d'une présentation
-	1. Les banques d'images et d'icônes
-		* allthefreestock.com
-		* https://pixabay.com/
-		* https://www.pexels.com/
-		* http://flaticon.com/
-	2. Les infographies
-		* https://infogr.am/
-		* http://piktochart.com/
-		* http://www.fastcodesign.com/1670019/10-steps-to-designing-an-amazing-infographic
-		* http://www.coolinfographics.com/
-		* http://www.coolinfographics.com/blog/2016/2/15/what-happens-on-youtube-in-24-hours.html
-3. Aller plus loin
-	1. Google Chart
-	2. Google Maps
-	3. D3.js
-
-
-# Gestion de projet
-
-## Objectifs
-* Saisir l'importance d'une bonne gestion de projet
-* Découvrir les outils et méthodes pour gérer efficacement un projet
-* Savoir appliquer la gestion de projet à un cas concret
-
-1. Planifier dans le temps
-2. Chiffrer le budget
-3. Maîtriser et piloter les risques
-4. Atteindre le niveau de qualité souhaité
-
-
-## Ressources
-https://fr.wikipedia.org/wiki/Gestion_de_projet
-http://www.gestiondeprojet.net
-http://www.blog-gestion-de-projet.com/lindispensable-planification-de-votre-projet-les-concepts/
-http://www.blog-gestion-de-projet.com/quest-ce-que-le-planning-poker/
-
-## Aller plus loin
-https://fr.wikipedia.org/wiki/Unified_process
-https://fr.wikipedia.org/wiki/Diagramme_des_cas_d'utilisation
-https://fr.wikipedia.org/wiki/UML_%28informatique%29#Les_diagrammes
-https://format30.com/2014/08/26/etudiants-organisez-votre-travail-avec-le-kanban-personnel-trello/
-http://gestiondeprojet.pm/tag/check-list/
-http://gestiondeprojet.pm/fondamentaux-de-la-gestion-de-projet/
-http://rb.ec-lille.fr/l/Projets/Projet_Outils-basiques.pdf
-https://freedcamp.com/tour
 
 ----------------------------------------
 # Wordpress
@@ -187,11 +59,47 @@ https://freedcamp.com/tour
 	1. Les thèmes
 	2. Les plugins
 	3. Les widgets
+	4. Les shortcodes
 3. Aller plus loin
-	1. Créer son plugin
-	2. Configurer du nom de domaine
+	1. Configurer du nom de domaine
+	2. La sécurité
 	3. Backup et migration
 
+## Feuille de route
+### Jour 1
+* Réaliser une présentation d'introduction aux CMS
+	* Qu'est-ce qu'un CMS ?
+	* Quels sont les avantages et les inconvénients d'un CMS ?
+	* Quels sont les 3-4 CMS les plus populaires ?
+
+### Jour 2
+* Installer sur sa machine un site Wordpress basique
+	* Si besoin, changer la configuration de Apache
+	* Ajouter une page
+	* Ajouter un article de blog
+	* Ajouter un utilisateur
+	* Sécuriser son Wordpress
+		* rechercher les bonnes pratiques sur la sécurité Wordpress
+
+### Jour 3
+* Mettre en place un thème enfant
+	* Installer le *starter theme* [underscores](https://underscores.me/)
+	* Le personnaliser pour respecter la charte graphique de Simplon.co
+
+### Jour 4
+* Configurer un plugin
+	* va chercher le dernier tweet de Simplon_tlse
+		* (Twitter API)
+	* mettre en place une vue "Paramètres" afin de choisir le compte auquel il va chercher le dernier Tweet
+		* pour que l'utilisateur puisse changer @Simplon_tlse en ce qu'il souhaite
+
+### Bonus
+* Installer les plugins "incontournables"
+	* référencement
+	* sécurité
+	* réseaux sociaux
+	* performances
+	* backup
 
 
 
@@ -309,36 +217,23 @@ https://freedcamp.com/tour
 
 ----------------------------------------
 # Outils d'automatisation
-
-
-----------------------------------------
-# Community Management
-* Twitter, Facebook, LinkedIn, Google Plus, Instagram, Snapchat, Pinterest
-* Tweet Deck
-* Buffer
-* Hootsuite
-
-----------------------------------------
-# Médiation numérique
-* Combustible
-* Coding Gouter
-* Scratch
-
-----------------------------------------
-# Référencement - SEO
+* IFTT
+* Zapier
+* Slack
+* Tweet Deck, Buffer
+* PhantomJs, cronTab
 
 
 ## Idées
 * Google As A Backend
 * Configuration d'un nom de domaine : DNS
 * HighRise
-* Zapier
-* IFTT
 * OwnCloud
 * Gérer les mots de passe et les comptes
 * Youtube
 * Framasoft
 * E-reputation
+* Manipulation basique d'image
 
 
 
