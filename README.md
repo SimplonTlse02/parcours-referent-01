@@ -31,6 +31,7 @@ Standup meeting à 09h00 pour lancer la journée.
 Standup meeting à 16h00 pour débriefer.
 
 Si le temps, réaliser des fiches mémos, articles de blog et des tutos.
+Bcp de présentations pour verbaliser et non pas copier-coller du texte.
 
 Jour 1 : Overview via une présentation
 Jour 2-4 : Mise en pratique
@@ -111,8 +112,6 @@ Jour 5 : Jour tampon ou Ecriture d'un tutoriel sur le sujet
 ----------------------------------------
 # Parenthèse numérique
 
-
-
 ## Objectifs
 * Mettre en place un gestionnaire de mot de passe
 * Savoir manipuler une image : recadrer, détourer, redimensionner, changement de format, de qualité
@@ -182,7 +181,13 @@ Jour 5 : Jour tampon ou Ecriture d'un tutoriel sur le sujet
 		* composer avec des calques
 		* convertion entre formats
 		* changement de qualité
-	* Réaliser le logo de Simplon *from scratch* 
+	* Réaliser le logo de Simplon *from scratch*
+
+### Jour 4
+* Réseau informatique
+	* LAN
+	* DNS
+	* DHCP
 
 
 ----------------------------------------
@@ -211,7 +216,39 @@ Jour 5 : Jour tampon ou Ecriture d'un tutoriel sur le sujet
 		*
 	2.
 
+## Feuille de route
+### Jour 1
+* Réaliser une présentation d'introduction aux solutions e-commerce
+	* Quels sont les avantages et les inconvénients d'une solution e-commerce ?
+	* Quels sont les 3-4 CMS les plus populaires ? Leurs avantages/inconvénients respectifs ?
+	* Prise en main rapide via les "démos", qu'en pensez-vous ?
 
+### Jour 2
+* Mettre en place un WooCommerce
+	* Ajouter des articles, des clients, des promotions
+	* Simuler des parcours utilisateur
+
+* Idem avec Prestashop
+
+
+----------------------------------------
+# Newsletters
+* Connaître les différents outils de newsletters
+* Savoir mettre en place une newsletter
+MailChimp
+MailJet
+Templating d'email
+User interface
+Template
+Api
+
+
+# Automatisation
+* IFTT
+* Zapier
+* Slack
+* Tweet Deck, Buffer
+* PhantomJs, cronTab
 
 
 ----------------------------------------
@@ -235,10 +272,7 @@ Jour 5 : Jour tampon ou Ecriture d'un tutoriel sur le sujet
 
 
 
-----------------------------------------
-# Newsletters
-* Connaître les différents outils de newsletters
-* Savoir mettre en place une newsletter
+
 
 
 ----------------------------------------
@@ -248,12 +282,7 @@ Jour 5 : Jour tampon ou Ecriture d'un tutoriel sur le sujet
 
 
 ----------------------------------------
-# Outils d'automatisation
-* IFTT
-* Zapier
-* Slack
-* Tweet Deck, Buffer
-* PhantomJs, cronTab
+
 
 
 ## Idées
@@ -266,6 +295,8 @@ Jour 5 : Jour tampon ou Ecriture d'un tutoriel sur le sujet
 * Framasoft
 * E-reputation
 * Manipulation basique d'image
+* LibreOffice
+* Tawk.to
 
 
 
@@ -306,3 +337,9 @@ Jour 5 : Jour tampon ou Ecriture d'un tutoriel sur le sujet
 		* formulation du problème
 		* résolution
 *
+
+
+push bullet
+
+Thingz : Rocket, Trello, Azana, Slack, Mention, G Suite, SendInblue (info bip), Heroku
+Happy Driver : pipe drive (crm), invoice ninja (stripe), front(gestion sources de com'), air call, zapier (infos pipe drive dans slack ), slack, voxer
