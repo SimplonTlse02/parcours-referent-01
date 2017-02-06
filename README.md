@@ -33,9 +33,9 @@ Standup meeting à 16h00 pour débriefer.
 Si le temps, réaliser des fiches mémos, articles de blog et des tutos.
 Bcp de présentations pour verbaliser et non pas copier-coller du texte.
 
-Jour 1 : Overview via une présentation
-Jour 2-4 : Mise en pratique
-Jour 5 : Jour tampon ou Ecriture d'un tutoriel sur le sujet
+* Jour 1 : Overview via une présentation
+* Jour 2-4 : Mise en pratique
+* Jour 5 : Jour tampon ou Ecriture d'un tutoriel sur le sujet
 
 
 ----------------------------------------
